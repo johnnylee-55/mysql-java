@@ -7,3 +7,7 @@ week 7: introduction to mySQL
 week 8: tables and relationships
   - created projects schema with associated ERD
   - established relationships between tables
+
+week 9: JDBC
+  - created the required tables to store data
+  - wrote java menu-application to add projects to the DB
