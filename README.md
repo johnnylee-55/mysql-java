@@ -14,3 +14,7 @@ week 9: JDBC
   
 week 10: Returning Data
   - added functionality to retrive and select projects
+
+week 11: Update, Delete
+  - added functionality to update and delete projects from the DB
+  
