@@ -88,12 +88,11 @@ public class Project {
     String result = "";
     
     result += "\n   ID=" + projectId;
-    result += "\n   name=" + projectName;
-    result += "\n   estimatedHours=" + estimatedHours;
-    result += "\n   actualHours=" + actualHours;
-    result += "\n   difficulty=" + difficulty;
-    result += "\n   notes=" + notes;
-    
+    result += "\n   Name=" + projectName;
+    result += "\n   EstimatedHours=" + estimatedHours;
+    result += "\n   ActualHours=" + actualHours;
+    result += "\n   Difficulty=" + difficulty;
+    result += "\n   Notes=" + notes;
     result += "\n   Materials:";
     
     for(Material material : materials) {
